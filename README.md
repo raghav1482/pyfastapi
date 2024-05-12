@@ -1,7 +1,7 @@
 
 ---
 
-# FastAPI Project README
+# Blog FastAPI Project README
 
 ## Description
 
